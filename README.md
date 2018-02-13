@@ -1,8 +1,11 @@
 # Vue.js Login
 
-> Formulário de Login implementado em Vue.js com validação de dados.
+> Login form implemented in Vue.js with data validate.
 
-![Formulário de Login](./screenshot.png)
+![Login Form](./screenshot.png)
+
+## Demo
+A functional demonstration can be seen here: [Demostração](https://github.com/lucianobragaweb/vue-login)
 
 ## Build Setup
 
@@ -21,4 +24,4 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 
 ## Credits
 
-> Implementei seguindo um tutorial do Fábio Vedovelli, desponível em: https://www.youtube.com/watch?v=n8eW8D04tNc&t=951s (Acesso em: 12/02/2018)
+> Implemented following a tutorial by *Fábio Vedovelli*, available in: https://www.youtube.com/watch?v=n8eW8D04tNc&t=951s (Access in: 12/02/2018)
