@@ -1,6 +1,8 @@
 # Vue.js Login
 
-> Formulário de Login implementado em Vue.js
+> Formulário de Login implementado em Vue.js com validação de dados.
+
+![Formulário de Login](./screenshot.png)
 
 ## Build Setup
 
