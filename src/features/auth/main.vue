@@ -15,6 +15,9 @@
 				</div>
 			</div>
 		</div>
+		<p style="text-align: center">
+			<a href="https://github.com/lucianobragaweb/vue-login">See the project repository</a>
+		</p>
 	</div>
 </template>
 

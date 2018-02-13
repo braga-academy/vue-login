@@ -5,7 +5,7 @@
 ![Formulário de Login](./screenshot.png)
 
 ## Demonstração
-Uma demostração funcional pode ser vista aqui: [Demostração](https://github.com/lucianobragaweb/vue-login)
+Uma demostração funcional pode ser vista aqui: [Demostração](https://lucianobragaweb.github.io/vue-login)
 
 ## Build Setup
 
